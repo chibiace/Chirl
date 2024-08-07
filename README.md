@@ -8,7 +8,7 @@ This is a simple project initializer written in Go.
 
 ## Build:
 
-To build the project you need to have [https://go.dev/](Go)
+To build the project you need to have [Go](https://go.dev/)
 
 ```console
 go build .
